@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Allan (@aaLean1), I'm 21 years old and I'm migrating from the admin area to Devs
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, React, CSS, HTML
+- 👀 I’m interested in Python, React, CSS, HTML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate with companies, projects, internships
 - 📫 How to reach me - allancicero@yahoo.com.br - +55 11 99008-3149
